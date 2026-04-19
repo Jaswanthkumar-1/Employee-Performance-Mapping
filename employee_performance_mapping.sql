@@ -1,3 +1,7 @@
+-- Language: MySQL
+-- Project: ScienceQtech Employee Performance Mapping
+-- Author: Jaswanthkumar
+-- Queries: 17
 -- ============================================================
 -- SCIENCEQTECH EMPLOYEE PERFORMANCE MAPPING
 -- Course-End Project | All 17 SQL Queries
